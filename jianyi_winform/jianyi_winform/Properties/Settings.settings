@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="jianyi_winform.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="tBB_custom_check" Type="System.String" Scope="User">
+      <Value Profile="(Default)">tBB_custom_check</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

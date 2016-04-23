@@ -1,0 +1,13 @@
+D:\idea-workspack\works\cs_jianyi_winform\jianyi_winform\jianyi_winform\bin\Release\jianyi_winform.exe.config
+D:\idea-workspack\works\cs_jianyi_winform\jianyi_winform\jianyi_winform\bin\Release\jianyi_winform.exe
+D:\idea-workspack\works\cs_jianyi_winform\jianyi_winform\jianyi_winform\bin\Release\jianyi_winform.pdb
+D:\idea-workspack\works\cs_jianyi_winform\jianyi_winform\jianyi_winform\obj\Release\jianyi_winform.CheckFrm.resources
+D:\idea-workspack\works\cs_jianyi_winform\jianyi_winform\jianyi_winform\obj\Release\jianyi_winform.ConfigureFrm.resources
+D:\idea-workspack\works\cs_jianyi_winform\jianyi_winform\jianyi_winform\obj\Release\jianyi_winform.CustomManagerFrm.resources
+D:\idea-workspack\works\cs_jianyi_winform\jianyi_winform\jianyi_winform\obj\Release\jianyi_winform.MainFrm.resources
+D:\idea-workspack\works\cs_jianyi_winform\jianyi_winform\jianyi_winform\obj\Release\jianyi_winform.NormalQuestionFrm.resources
+D:\idea-workspack\works\cs_jianyi_winform\jianyi_winform\jianyi_winform\obj\Release\jianyi_winform.Properties.Resources.resources
+D:\idea-workspack\works\cs_jianyi_winform\jianyi_winform\jianyi_winform\obj\Release\jianyi_winform.csproj.GenerateResource.Cache
+D:\idea-workspack\works\cs_jianyi_winform\jianyi_winform\jianyi_winform\obj\Release\jianyi_winform.exe
+D:\idea-workspack\works\cs_jianyi_winform\jianyi_winform\jianyi_winform\obj\Release\jianyi_winform.pdb
+D:\idea-workspack\works\cs_jianyi_winform\jianyi_winform\jianyi_winform\obj\Release\jianyi_winform.csprojResolveAssemblyReference.cache

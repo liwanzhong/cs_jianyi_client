@@ -1,0 +1,15 @@
+D:\idea-workspack\works\cs_jianyi_winform\jianyi_winform\jianyi_winform\obj\Debug\jianyi_winform.CheckFrm.resources
+D:\idea-workspack\works\cs_jianyi_winform\jianyi_winform\jianyi_winform\obj\Debug\jianyi_winform.ConfigureFrm.resources
+D:\idea-workspack\works\cs_jianyi_winform\jianyi_winform\jianyi_winform\obj\Debug\jianyi_winform.CustomManagerFrm.resources
+D:\idea-workspack\works\cs_jianyi_winform\jianyi_winform\jianyi_winform\obj\Debug\jianyi_winform.MainFrm.resources
+D:\idea-workspack\works\cs_jianyi_winform\jianyi_winform\jianyi_winform\obj\Debug\jianyi_winform.NormalQuestionFrm.resources
+D:\idea-workspack\works\cs_jianyi_winform\jianyi_winform\jianyi_winform\obj\Debug\jianyi_winform.Properties.Resources.resources
+D:\idea-workspack\works\cs_jianyi_winform\jianyi_winform\jianyi_winform\obj\Debug\jianyi_winform.csproj.GenerateResource.Cache
+D:\idea-workspack\works\cs_jianyi_winform\jianyi_winform\jianyi_winform\bin\Debug\jianyi_winform.exe.config
+D:\idea-workspack\works\cs_jianyi_winform\jianyi_winform\jianyi_winform\bin\Debug\jianyi_winform.exe
+D:\idea-workspack\works\cs_jianyi_winform\jianyi_winform\jianyi_winform\bin\Debug\jianyi_winform.pdb
+D:\idea-workspack\works\cs_jianyi_winform\jianyi_winform\jianyi_winform\bin\Debug\Newtonsoft.Json.dll
+D:\idea-workspack\works\cs_jianyi_winform\jianyi_winform\jianyi_winform\bin\Debug\Newtonsoft.Json.xml
+D:\idea-workspack\works\cs_jianyi_winform\jianyi_winform\jianyi_winform\obj\Debug\jianyi_winform.exe
+D:\idea-workspack\works\cs_jianyi_winform\jianyi_winform\jianyi_winform\obj\Debug\jianyi_winform.pdb
+D:\idea-workspack\works\cs_jianyi_winform\jianyi_winform\jianyi_winform\obj\Debug\jianyi_winform.csprojResolveAssemblyReference.cache
