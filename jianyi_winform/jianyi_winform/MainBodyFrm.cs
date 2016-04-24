@@ -45,9 +45,11 @@ namespace jianyi_winform
             else if (e.Button.Name.Equals("toolBarButton3"))
             {
                
-                //todo 实例化常见问题窗口
-                NormalQuestionFrm normalQuestion = new NormalQuestionFrm();
-                Control_Add(normalQuestion);
+                ////todo 实例化常见问题窗口
+                //NormalQuestionFrm normalQuestion = new NormalQuestionFrm();
+                //Control_Add(normalQuestion);
+
+                MessageBox.Show("功能开发中！","tips");
             }
         }
 

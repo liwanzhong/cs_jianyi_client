@@ -60,7 +60,7 @@
             this.tableLayoutPanel1.RowCount = 2;
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 17.87709F));
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 82.1229F));
-            this.tableLayoutPanel1.Size = new System.Drawing.Size(874, 537);
+            this.tableLayoutPanel1.Size = new System.Drawing.Size(1008, 882);
             this.tableLayoutPanel1.TabIndex = 1;
             // 
             // toolBar_main
@@ -77,7 +77,7 @@
             this.toolBar_main.Location = new System.Drawing.Point(3, 3);
             this.toolBar_main.Name = "toolBar_main";
             this.toolBar_main.ShowToolTips = true;
-            this.toolBar_main.Size = new System.Drawing.Size(868, 94);
+            this.toolBar_main.Size = new System.Drawing.Size(1002, 94);
             this.toolBar_main.TabIndex = 1;
             this.toolBar_main.ButtonClick += new System.Windows.Forms.ToolBarButtonClickEventHandler(this.toolBar_main_ButtonClick);
             // 
@@ -103,21 +103,24 @@
             // 
             this.panel_body.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.panel_body.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel_body.Location = new System.Drawing.Point(3, 98);
+            this.panel_body.Location = new System.Drawing.Point(3, 160);
             this.panel_body.Name = "panel_body";
-            this.panel_body.Size = new System.Drawing.Size(868, 436);
+            this.panel_body.Size = new System.Drawing.Size(1002, 719);
             this.panel_body.TabIndex = 2;
             // 
             // MainFrm
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(874, 537);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
+            this.ClientSize = new System.Drawing.Size(1008, 882);
             this.Controls.Add(this.tableLayoutPanel1);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "MainFrm";
+            this.SizeGripStyle = System.Windows.Forms.SizeGripStyle.Hide;
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "人体机能检测平台";
+            this.TopMost = true;
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.Load += new System.EventHandler(this.Form1_Load);
             this.tableLayoutPanel1.ResumeLayout(false);

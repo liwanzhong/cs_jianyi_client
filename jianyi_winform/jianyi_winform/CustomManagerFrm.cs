@@ -16,9 +16,11 @@ namespace jianyi_winform
 {
     public partial class CustomManagerFrm : Form
     {
+
         public CustomManagerFrm()
         {
             InitializeComponent();
+            
         }
 
         private void btn_check_Click(object sender, EventArgs e)
@@ -148,6 +150,8 @@ namespace jianyi_winform
            
 
         }
+
+
 
 
 
